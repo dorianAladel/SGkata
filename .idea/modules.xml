@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_Configuration/00_Configuration.iml" filepath="$PROJECT_DIR$/00_Configuration/00_Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_DataAccess/01_DataAccess.iml" filepath="$PROJECT_DIR$/01_DataAccess/01_DataAccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_BusinessLogic/02_BusinessLogic.iml" filepath="$PROJECT_DIR$/02_BusinessLogic/02_BusinessLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_UserInterface/03_UserInterface.iml" filepath="$PROJECT_DIR$/03_UserInterface/03_UserInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SGKata.iml" filepath="$PROJECT_DIR$/SGKata.iml" />
+    </modules>
+  </component>
+</project>
